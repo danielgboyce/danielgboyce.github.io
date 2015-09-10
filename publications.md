@@ -9,7 +9,7 @@ _ _ _
 
 ##Peer-reviewed publications
  
-**Boyce DG**, Worm B. 2015. Patterns and drivers of marine phytoplankton change over the past century *Marine Ecology Progress Series* (in press).
+**Boyce DG**, Worm B. 2015. Patterns and drivers of marine phytoplankton change over the past century *Marine Ecology Progress Series* (in press).[(pdf)][2015c]
 
 **Boyce DG**, Frank KT, Worm B, Leggett WL. 2015. Spatial patterns and predictors of trophic control in marine ecosystems. *Ecology Letters* (in press).[(pdf)][2015b]
 
@@ -59,4 +59,5 @@ _ _ _
 [2014b]: /papers/Lewandowska.2014.pdf
 [2015a]: /papers/Boyce.2015.pdf
 [2015b]: /papers/Boyce.2015b.pdf
+[2015c]: /papers/Boyce.2015c.pdf
 [2011]: /papers/Boyce.2011.pdf
