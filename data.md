@@ -6,7 +6,7 @@ permalink: /data/code/
 
 #####Making scientific data available ensures that research is fully reproducible, assists other researchers in conducting their investigations, and increases the pace of scientific discovery. In support of this view, most of the data sets generated in my research and the publications from which they originate may be found below.
 
-**Boyce DG**, Frank KT, Worm B, Leggett WL. 2015. Spatial patterns and predictors of trophic control in marine ecosystems. *Ecology Letters*. [(Data)][ele2015b]
+**Boyce DG**, Frank KT, Worm B, Leggett WL. 2015. Spatial patterns and predictors of trophic control in marine ecosystems. *Ecology Letters*. [(Data)][chldata2015]
 
 **Boyce DG**, Frank KT, Leggett WL. 2015. From mice to elephants: overturning the one size fits all paradigm in marine plankton. *Ecology Letters*.
 
@@ -19,3 +19,4 @@ permalink: /data/code/
 [ele2015b]: http://datadryad.org/resource/doi:10.5061/dryad.4gt21
 [chl2010]: http://www.fmap.ca/ramweb/media/phytoplankton_decline/home.php
 [chl2012]: http://onlinelibrary.wiley.com/doi/10.4319/lom.2012.10.840/suppinfo
+[chldata2015]: /data/Boyce_et_al_2015_ELE_SBP_Fig5.csv
