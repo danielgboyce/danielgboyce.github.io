@@ -3,11 +3,11 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-### An updated list of my publications can be viewed on my [ResearchGate][researchgate] and [Google Scholar][googlescholar] profiles. Article reviews and recommendations can be viewed on my [F1000][f1000] profile.
+An updated list of my publications can be viewed on my [ResearchGate][researchgate] and [Google Scholar][googlescholar] profiles. Article reviews and recommendations can be viewed on my [F1000][f1000] profile.
 
 _ _ _
 
-## Peer-reviewed publications
+Peer-reviewed publications
  
 **Boyce DG**, Worm B. 2015. Patterns and drivers of marine phytoplankton change over the past century *Marine Ecology Progress Series*.[(pdf)][2015c]
 
@@ -31,7 +31,7 @@ Lewandowska AM, **Boyce DG**, Hofmann M, Matthiessen B, Sommer U, Worm B. 2014. 
 
 _ _ _
 
-##Theses 
+Theses 
 1. **Boyce DG**. 2013. Global patterns of marine phytoplankton change over the past century. (Doctoral thesis) Supervisor: Boris Worm and initially co-supervised by Ransom Myers.[(pdf)][phdthesis]
   *	Awarded [Canadian Association of Graduate Students UMI/Proquest award][cags] for top-ranked Doctoral thesis in the Natural Sciences, Engineering and medicine across Canada.
   *	Awarded [Dalhousie University Doctoral Thesis Award][dalaward] for top-ranked Doctoral thesis in the Natural Sciences and Engineering at Dalhousie University.<br><br>    
