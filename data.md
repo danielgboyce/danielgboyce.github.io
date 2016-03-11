@@ -19,4 +19,4 @@ Making scientific data available ensures that research is fully reproducible, as
 [ele2015b]: http://datadryad.org/resource/doi:10.5061/dryad.4gt21
 [chl2010]: http://www.fmap.ca/ramweb/media/phytoplankton_decline/home.php
 [chl2012]: http://onlinelibrary.wiley.com/doi/10.4319/lom.2012.10.840/suppinfo
-[chldata2015]: /papers/Boyce_et_al_2015_ELE_SBP_Fig5.csv
+[chldata2015]: /papers/Boyce_et_al_2015_ELE_plankton_SBP_Fig5.csv
