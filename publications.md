@@ -3,11 +3,11 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-###An updated list of my publications can be viewed on my [ResearchGate][researchgate] and [Google Scholar][googlescholar] profiles. Article reviews and recommendations can be viewed on my [F1000][f1000] profile.
+### An updated list of my publications can be viewed on my [ResearchGate][researchgate] and [Google Scholar][googlescholar] profiles. Article reviews and recommendations can be viewed on my [F1000][f1000] profile.
 
 _ _ _
 
-##Peer-reviewed publications
+## Peer-reviewed publications
  
 **Boyce DG**, Worm B. 2015. Patterns and drivers of marine phytoplankton change over the past century *Marine Ecology Progress Series*.[(pdf)][2015c]
 
