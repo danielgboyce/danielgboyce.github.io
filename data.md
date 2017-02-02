@@ -4,7 +4,7 @@ title: Data/Code
 permalink: /data/code/
 ---
 
-Most of the data sets generated in my research and the publications from which they originate may be found below.
+The data sets generated in my research can be accessed through the links below.
 
 **Boyce DG**, Frank KT, Worm B, Leggett WL. 2015. Spatial patterns and predictors of trophic control in marine ecosystems. *Ecology Letters*. [(Data)][chl2012]
 

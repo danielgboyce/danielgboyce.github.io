@@ -7,7 +7,7 @@ An updated list of my publications can be viewed on my [ResearchGate][researchga
 
 _ _ _
 
-Peer-reviewed publications
+###Peer-reviewed publications
  
 Frank KT, Petrie, B, Leggett WL, **Boyce DG**. 2016. Large scale, synchronous variability of marine fish
 populations driven by commercial exploitation. *Proceedings of the National Academy of Sciences*
@@ -36,7 +36,7 @@ Lewandowska AM, **Boyce DG**, Hofmann M, Matthiessen B, Sommer U, Worm B. 2014. 
 
 _ _ _
 
-Theses 
+####Theses 
 
 1. **Boyce DG**. 2013. Global patterns of marine phytoplankton change over the past century. (Doctoral thesis) Supervisor: Boris Worm and initially co-supervised by Ransom Myers.[(pdf)][phdthesis]
   *	Awarded [Canadian Association of Graduate Students UMI/Proquest award][cags] for top-ranked Doctoral thesis in the Natural Sciences, Engineering and medicine across Canada.
