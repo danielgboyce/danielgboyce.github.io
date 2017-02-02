@@ -9,6 +9,11 @@ _ _ _
 
 Peer-reviewed publications
  
+Frank KT, Petrie, B, Leggett WL, **Boyce DG**. 2016. Large scale, synchronous variability of marine fish
+populations driven by commercial exploitation. *Proceedings of the National Academy of Sciences*
+
+Frank KT, Petrie, B, **Boyce DG**, Leggett WL. 2016. Anomalous ecosystem dynamics following the apparent collapse of a keystone forage species. *Marine Ecology Progress Series*
+ 
 **Boyce DG**, Worm B. 2015. Patterns and drivers of marine phytoplankton change over the past century *Marine Ecology Progress Series*.[(pdf)][2015c]
 
 **Boyce DG**, Frank KT, Worm B, Leggett WL. 2015. Spatial patterns and predictors of trophic control in marine ecosystems. *Ecology Letters*.[(pdf)][2015b]
@@ -32,9 +37,10 @@ Lewandowska AM, **Boyce DG**, Hofmann M, Matthiessen B, Sommer U, Worm B. 2014. 
 _ _ _
 
 Theses 
+
 1. **Boyce DG**. 2013. Global patterns of marine phytoplankton change over the past century. (Doctoral thesis) Supervisor: Boris Worm and initially co-supervised by Ransom Myers.[(pdf)][phdthesis]
   *	Awarded [Canadian Association of Graduate Students UMI/Proquest award][cags] for top-ranked Doctoral thesis in the Natural Sciences, Engineering and medicine across Canada.
-  *	Awarded [Dalhousie University Doctoral Thesis Award][dalaward] for top-ranked Doctoral thesis in the Natural Sciences and Engineering at Dalhousie University.<br><br>    
+  *	Awarded [Dalhousie University Doctoral Thesis Award][dalaward] for top-ranked Doctoral thesis in the Natural Sciences and Engineering at Dalhousie University.<br><br>
 
 2. **Boyce DG**. 2006. Effects of water temperature on global patterns of tuna and billfish. (Honours) Supervisor: Boris Worm.[(pdf)][honthesis]
   *	Received top marks in the course (99%) and was published in a leading scientific journal.
