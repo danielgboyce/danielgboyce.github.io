@@ -13,7 +13,7 @@ Frank KT, Petrie B, Leggett, WC, **Boyce DG**. 2018 Exploitation drives on ontog
 
 Lee Z, Arnone R, **Boyce DG**, Franz BA, Greb S, Hu C, Lavender S, Lewis M, Schaeffer B, Shang S, Wang M, Wernand M, Wilson C. 2018. Global water clarity: continuing a century-long monitoring. *Eos, Transactions of the American Geophysical Union*
 
-**Boyce DG**, Frank KT, Worm B, Leggett WL. 2017. Environmental structuring of marine plankton phenology. Nature Ecology and Evolution. 1: 1484-1494
+**Boyce DG**, Frank KT, Worm B, Leggett WL. 2017. Environmental structuring of marine plankton phenology. *Nature Ecology and Evolution*. 1: 1484-1494
  
 Frank KT, Petrie, B, Leggett WL, **Boyce DG**. 2016. Large scale, synchronous variability of marine fish
 populations driven by commercial exploitation. *Proceedings of the National Academy of Sciences*
