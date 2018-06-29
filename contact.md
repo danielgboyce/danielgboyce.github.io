@@ -9,7 +9,7 @@ Steel Ocean Sciences building
 Halifax, NS, Canada   
 1355 Oxford St B3H 3Z1  
 
-<img src="/images/dal_logo.png" align='right' width="250" height="115" /> **Dalhousie University**   
+<img src="/images/dal_logo.png" align='right' width="250" height="115" /> 
 
 **Email: [dboyce@dal.ca](mailto:dboyce@dal.ca)** 
 
