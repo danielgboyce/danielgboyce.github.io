@@ -7,11 +7,22 @@ An updated list of my publications can be viewed on my [ResearchGate][researchga
 
 _ _ _
 
-Peer-reviewed publications
+**Theses**
 
-Frank, K. T., Petrie, B., Leggett, W. C., and **Boyce**, D. G. 2019. Fishingmatters: Age-specific deepening is driven by exploitation. *Proceedings of the National Academy of Sciences*.
+1. **Boyce DG**. 2013. *Global patterns of marine phytoplankton change over the past century*. (Doctoral thesis) Supervisor: Boris Worm and initially co-supervised by Ransom Myers.[(pdf)][phdthesis]
+  *	Awarded [Canadian Association of Graduate Students UMI/Proquest award][cags] for top-ranked Doctoral thesis in the Natural Sciences, Engineering and medicine across Canada.
+  *	Awarded [Dalhousie University Doctoral Thesis Award][dalaward] for top-ranked Doctoral thesis in the Natural Sciences and Engineering at Dalhousie University.<br><br>
 
-**Boyce, D. G.**, Petrie, B., and K.T., F. 2019. Multivariate determination of Atlantic herring population health in a large 1 marine ecosystem. *ICES Journal of Marine Science*.
+2. **Boyce DG**. 2006. *Effects of water temperature on global patterns of tuna and billfish*. (Honours) Supervisor: Boris Worm.[(pdf)][honthesis]
+  *	Received top marks (99%) and was published in a peer-reviewed journal.
+
+_ _ _
+
+**Peer-reviewed publications**
+
+Frank, K. T., Petrie, B., Leggett, W. C., and **Boyce**, D. G. 2019. Fishin gmatters: Age-specific deepening is driven by exploitation. *Proceedings of the National Academy of Sciences*.
+
+**Boyce, D. G.**, Petrie, B., and K.T., F. 2019. Multivariate determination of Atlantic herring population health in a large marine ecosystem. *ICES Journal of Marine Science*.
 
 Frank KT, Petrie B, Leggett, WC, **Boyce DG**. 2018 Exploitation drives on ontogenetic-like deepening in marine fish. *Proceedings of the National Academy of Sciences*
 
@@ -44,16 +55,7 @@ Lewandowska AM, **Boyce DG**, Hofmann M, Matthiessen B, Sommer U, Worm B. 2014. 
 
 **Boyce D**, Tittensor D, Worm B. 2008. Effects of temperature on global patterns of tuna and billfish richness. *Marine Ecology Progress Series* 355:267-276.[(pdf)][2008]
 
-_ _ _
 
-Theses 
-
-1. **Boyce DG**. 2013. Global patterns of marine phytoplankton change over the past century. (Doctoral thesis) Supervisor: Boris Worm and initially co-supervised by Ransom Myers.[(pdf)][phdthesis]
-  *	Awarded [Canadian Association of Graduate Students UMI/Proquest award][cags] for top-ranked Doctoral thesis in the Natural Sciences, Engineering and medicine across Canada.
-  *	Awarded [Dalhousie University Doctoral Thesis Award][dalaward] for top-ranked Doctoral thesis in the Natural Sciences and Engineering at Dalhousie University.<br><br>
-
-2. **Boyce DG**. 2006. Effects of water temperature on global patterns of tuna and billfish. (Honours) Supervisor: Boris Worm.[(pdf)][honthesis]
-  *	Received top marks in the course (99%) and was published in a leading scientific journal.
 
 
 [researchgate]: https://www.researchgate.net/profile/Daniel_Boyce
