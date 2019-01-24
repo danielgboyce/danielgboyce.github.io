@@ -9,6 +9,10 @@ _ _ _
 
 Peer-reviewed publications
 
+Frank, K. T., Petrie, B., Leggett, W. C., and **Boyce**, D. G. 2019. Fishingmatters: Age-specific deepening is driven by exploitation. *Proceedings of the National Academy of Sciences*.
+
+**Boyce, D. G.**, Petrie, B., and K.T., F. 2019. Multivariate determination of Atlantic herring population health in a large 1 marine ecosystem. *ICES Journal of Marine Science*.
+
 Frank KT, Petrie B, Leggett, WC, **Boyce DG**. 2018 Exploitation drives on ontogenetic-like deepening in marine fish. *Proceedings of the National Academy of Sciences*
 
 Lee Z, Arnone R, **Boyce DG**, Franz BA, Greb S, Hu C, Lavender S, Lewis M, Schaeffer B, Shang S, Wang M, Wernand M, Wilson C. 2018. Global water clarity: continuing a century-long monitoring. *Eos, Transactions of the American Geophysical Union*
