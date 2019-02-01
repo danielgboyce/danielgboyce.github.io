@@ -20,13 +20,15 @@ _ _ _
 
 **Peer-reviewed publications**
 
-Frank, K. T., Petrie, B., Leggett, W. C., and **Boyce**, D. G. 2019. Fishin gmatters: Age-specific deepening is driven by exploitation. *Proceedings of the National Academy of Sciences*.
+**Boyce, D. G.**, Petrie, B., and K.T., F. 2019. Multivariate determination of Atlantic herring population health in a large marine ecosystem. *ICES Journal of Marine Science*.[**selected as an Editors Choice article.**][icesED]
 
-**Boyce, D. G.**, Petrie, B., and K.T., F. 2019. Multivariate determination of Atlantic herring population health in a large marine ecosystem. *ICES Journal of Marine Science*.
+Frank, K. T., Petrie, B., Leggett, W. C., and **Boyce**, D. G. 2019. Fishing matters: Age-specific deepening is driven by exploitation. *Proceedings of the National Academy of Sciences*.
 
 Frank KT, Petrie B, Leggett, WC, **Boyce DG**. 2018 Exploitation drives on ontogenetic-like deepening in marine fish. *Proceedings of the National Academy of Sciences*
 
 Lee Z, Arnone R, **Boyce DG**, Franz BA, Greb S, Hu C, Lavender S, Lewis M, Schaeffer B, Shang S, Wang M, Wernand M, Wilson C. 2018. Global water clarity: continuing a century-long monitoring. *Eos, Transactions of the American Geophysical Union*
+
+Stortini, C., Frank, K., Leggett, W., Shackell, N., and **Boyce, D.G.** 2018. Support for the trophic theory of island biogeography across submarine banks in a predator-depleted large marine ecosystem. *Marine Ecology Progress Series*, 607: 155–169.
 
 **Boyce DG**, Frank KT, Worm B, Leggett WL. 2017. Environmental structuring of marine plankton phenology. *Nature Ecology and Evolution*. 1: 1484-1494
  
@@ -66,6 +68,7 @@ Lewandowska AM, **Boyce DG**, Hofmann M, Matthiessen B, Sommer U, Worm B. 2014. 
 [honthesis]: http://wormlab.biology.dal.ca/wp-content/uploads/thesis_Daniel_Boyce.pdf
 [phdthesis]: http://dalspace.library.dal.ca/handle/10222/38496
 [naturepress]: http://www.fmap.ca/ramweb/media/phytoplankton_decline/home.php
+[icesED]: http://www.ices.dk/news-and-events/news-archive/news/Pages/IJMS-Editor%27s-Choice-Determining-population-health.aspx
 
 [2010p]: papers/boyce.2010_Nature.pdf
 

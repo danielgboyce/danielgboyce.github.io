@@ -9,6 +9,7 @@ I'm currently focussed on predicting how the abundance and distribution marine l
 
 In my current position, I am engaged in advancing the scientific understanding of how ocean ecosystems will respond to climate change over the coming century and how to incorporate this knowledge to increase the effectiveness of spatial protection strategies.
 
+
 <img src="{{ site.baseurl }}/images/pic2w.jpg" alt="Drawing" style="height: 180px;"/> <img src="{{ site.baseurl }}/images/index3w.jpg" alt="Drawing" style="height: 180px;"/> <img src="{{ site.baseurl }}/images/pic5w.jpg" alt="Drawing" style="height: 180px;"/>
 <img src="{{ site.baseurl }}/images/kielw.jpg" alt="Drawing" style="height: 189px;"/> <img src="{{ site.baseurl }}/images/IMG.175822w.jpg" alt="Drawing" style="height: 189px;"/> <img src="{{ site.baseurl }}/images/galapdivew.jpg" alt="Drawing" style="height: 189px;"/> <img src="{{ site.baseurl }}/images/IMG_71162w.jpg" alt="Drawing" style="height: 189px;"/>
  
