@@ -9,24 +9,27 @@ Brief summaries of my current research interests and selected published examples
 
 _ _ _
 
-1. How predator-prey dynamics and community stability vary within and across marine ecosystems and in response to varying environmental and human influences.
+1. Predator-prey dynamics and community stability .
 
 <img src="/images/trophiccontrol_researchnw.jpg" align='right' width="200" height="200" /> Understanding feeding interactions between predators and their prey (trophic interactions) yields valuable insights into how and why marine populations undergo collapse and recovery, forecasting how species and ecosystems will change into the future, and for developing strategies for how to manage populations of exploited marine species. Resolving these questions is extremely challenging. Changes in populations and ecosystems are also strongly influenced by additional factors such as environmental variation and human activities. My work studies how these external factors interact with internal predator-prey dynamics to shape the distribution and structure of life in the oceans. 
+
 **Boyce DG**, Frank KT, Worm B, Leggett WL. 2015. Spatial patterns and predictors of trophic control in marine ecosystems. *Ecology Letters* (in press).[(pdf)][2015b]
+
+**Boyce DG**, Frank KT, Leggett WL. 2015. From mice to elephants: overturning the one size fits all paradigm in marine plankton. *Ecology Letters*.[(pdf)][2015a]
 
 _ _ _
 
-2. Understanding the patterns, drivers, and consequences of marine phytoplankton changes over the past century.
+2. Patterns, drivers, and consequences of marine phytoplankton change.
 
 <img src="/images/phytoplankton_researchnw.jpg" align='right' width="275" height="325" /> Marine phytoplankton generate the energy which supports virtually all marine ecosystems and thus determine the abundance and diversity of marine organisms, the structure of ecosystems, and set the upper limits on fishery harvests. Through their effects on global biogeochemical cycles, marine phytoplankton also have strong impacts on climate processes. Despite this critical and far-reaching importance, our understanding of how and why marine phytoplankton levels have changed over the long-term is limited. I've been researching this topic at local, regional, and global scales using a combination of thoeretical, macroecological, experimental, and field-based approaches. 
 
-**Boyce DG**, Frank KT, Leggett WL. 2015. From mice to elephants: overturning the one size fits all paradigm in marine plankton. *Ecology Letters*.[(pdf)][2015a]
+**Boyce DG**, Frank KT, Worm B, Leggett WL. 2017. Environmental structuring of marine plankton phenology. *Nature Ecology and Evolution*. 1: 1484-1494
 
 **Boyce DG**, Lewis MR, Worm B. 2010. Global phytoplankton decline over the past century. *Nature* 466: 591-596.[(pdf)][2010]
 
 _ _ _
 
-3. Explaining how and why biodiversity is changing over time and across space and the consequences of these changes.
+3. How and why biodiversity is changing and the consequences of these changes.
 
  Biodiversity, the number and abundance of species, is critically important to the health of marine ecosystems. Ecosystems with higher biodiversity tend to be more productive, provide more services to humans, and are better able to withstand and recover from stress. <img src="/images/biodiveristy_researchnw.jpg" align='left' width="325" height="200" /> My research seeks to understand how and why biodiversity varies, how to maintain and promote biodiversity, and what effects changing biodiversity levels have on predator-prey interactions within marine ecosystems. 
  
