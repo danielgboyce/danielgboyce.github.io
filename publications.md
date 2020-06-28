@@ -9,7 +9,7 @@ _ _ _
 
 **Peer-reviewed publications**
 
-**Boyce DG**, Lotze HK, Tittensor DT, Carozza DA, Worm B 2020 Future ocean biomass losses may widen socioeconomic equity gaps. *Nature Communications*.
+**Boyce DG**, Lotze HK, Tittensor DT, Carozza DA, Worm B. 2020. Future ocean biomass losses may widen socioeconomic equity gaps. *Nature Communications*.
 
 Tittensor DP, Beger M, Koerder K, **Boyce DG**, Cavanagh R, Cosandey-Godin A, Ortuno Crespo G, Dunn D, Ghiffary W, Grant SM, Hannah L, Halpin P, Harfoot M, Heaslip SG, Jeffrey NW, Kingston N, Lotze HK, McLeod E, McGowan J, McOwen CJ, O’Leary BC, Schiller L, Stanley RRE, Westhead M, Wilson KL, Worm B. 2019. Integrating climate adaptation and biodiversity conservation in the global 3 protected ocean. *Science Advances*.
 
