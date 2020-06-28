@@ -9,19 +9,21 @@ _ _ _
 
 **Peer-reviewed publications**
 
-Tittensor, D.P., Beger, M., Koerder, K., **Boyce, D.G.**, Cavanagh, R., Cosandey-Godin, A., Ortuno Crespo, G., Dunn, D., Ghiffary, W., Grant, S.M., Hannah, L., Halpin, P., Harfoot, M., Heaslip, S.G., Jeffrey, N.W., Kingston, N., Lotze, H.K., McLeod, E., McGowan, J., McOwen, C.J., O’Leary, B.C., Schiller, L., Stanley, R.R.E., Westhead, M., Wilson, K.L., Worm, B. 2019. Integrating climate adaptation and biodiversity conservation in the global 3 protected ocean. *Science Advances*.
+**Boyce DG**, Lotze HK, Tittensor DT, Carozza DA, Worm B 2020 Future ocean biomass losses may widen socioeconomic equity gaps. *Nature Communications*.
 
-**Boyce, D. G.**, Petrie, B., and K.T., F. 2019. Multivariate determination of Atlantic herring population health in a large marine ecosystem. *ICES Journal of Marine Science*.[**selected as an Editors Choice article.**][icesED]
+Tittensor DP, Beger M, Koerder K, **Boyce DG**, Cavanagh R, Cosandey-Godin A, Ortuno Crespo G, Dunn D, Ghiffary W, Grant SM, Hannah L, Halpin P, Harfoot M, Heaslip SG, Jeffrey NW, Kingston N, Lotze HK, McLeod E, McGowan J, McOwen CJ, O’Leary BC, Schiller L, Stanley RRE, Westhead M, Wilson KL, Worm B. 2019. Integrating climate adaptation and biodiversity conservation in the global 3 protected ocean. *Science Advances*.
 
-Frank, K.T., Petrie, B., Leggett, W.C., and **Boyce, D.G.** 2019. Fishing matters: Age-specific deepening is driven by exploitation. *Proceedings of the National Academy of Sciences*.
+**Boyce DG**, Petrie B, and Frank KT. 2019. Multivariate determination of Atlantic herring population health in a large marine ecosystem. *ICES Journal of Marine Science*.[**selected as an Editors Choice article.**][icesED]
 
-Frank, K. T., Petrie, B., Leggett, W. C., and **Boyce, D. G.** 2019. Towards a more balanced assessment of the dynamics of North Atlantic ecosystems - a comment on Drinkwater and Kristiansen (2018). *ICES Journal of Marine Science*.
+Frank KT, Petrie B, Leggett WC, and **Boyce DG** 2019. Fishing matters: Age-specific deepening is driven by exploitation. *Proceedings of the National Academy of Sciences*.
+
+Frank KT, Petrie B, Leggett WC, and **Boyce DG** 2019. Towards a more balanced assessment of the dynamics of North Atlantic ecosystems - a comment on Drinkwater and Kristiansen (2018). *ICES Journal of Marine Science*.
 
 Frank KT, Petrie B, Leggett, WC, **Boyce DG**. 2018 Exploitation drives on ontogenetic-like deepening in marine fish. *Proceedings of the National Academy of Sciences*
 
 Lee Z, Arnone R, **Boyce DG**, Franz BA, Greb S, Hu C, Lavender S, Lewis M, Schaeffer B, Shang S, Wang M, Wernand M, Wilson C. 2018. Global water clarity: continuing a century-long monitoring. *Eos, Transactions of the American Geophysical Union*
 
-Stortini, C., Frank, K., Leggett, W., Shackell, N., and **Boyce, D.G.** 2018. Support for the trophic theory of island biogeography across submarine banks in a predator-depleted large marine ecosystem. *Marine Ecology Progress Series*, 607: 155–169.
+Stortini C., Frank K., Leggett W., Shackell N., and **Boyce D.G.** 2018. Support for the trophic theory of island biogeography across submarine banks in a predator-depleted large marine ecosystem. *Marine Ecology Progress Series*, 607: 155–169.
 
 **Boyce DG**, Frank KT, Worm B, Leggett WL. 2017. Environmental structuring of marine plankton phenology. *Nature Ecology and Evolution*. 1: 1484-1494
  
